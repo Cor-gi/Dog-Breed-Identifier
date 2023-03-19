@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.18",
+    "cli-progress": "^3.12.0",
+    "file-system": "^2.2.2",
+    "gl": "^6.0.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
